@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Compilados de Java
+*.class
