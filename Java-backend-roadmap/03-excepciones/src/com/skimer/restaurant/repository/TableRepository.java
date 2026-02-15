@@ -1,4 +1,7 @@
 package com.skimer.restaurant.repository;
 
-public class TableRepository {
+import com.skimer.restaurant.domain.entities.Table;
+
+public interface TableRepository extends Repository<Table, String>{
+    //por si quiero añadir más métodos.
 }
